@@ -1,6 +1,3 @@
-/* 
-Проверка номера телефона
-*/
 public class PhoneNumberValidator {
     public static boolean checkTelNumber(String telNumber) {
         if (telNumber == null) return false;
